@@ -1,0 +1,87 @@
+@charset "utf-8";
+header {
+	background-image: url("../img/tPhysicsLogo.jpg");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-color: white;
+	height: 150px;
+	width: 100%;
+	margin: 10 auto;
+	font-family: Arial;
+	font-size: 80px;
+	color: #00259E;
+	text-align: center;
+}
+header2 {
+	font-family: Arial;
+	font-size: 40px;
+	color: #2E2E2E;
+	text-align: center;
+	margin-left: 100px;
+}
+nav {
+	
+}
+body {
+	background-color: #E1F9FF
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #064660;
+}
+table {
+	font-family: Arial;
+	margin-left: 200px;
+}
+h3 {
+	font-family: Arial;
+	margin-left: 50px;
+}
+quizbutton {
+	margin-left: 400px;
+}
+button {
+	font-family: Arial;
+	font-size: 20px;
+}
+li {
+    float: left;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+fb {
+	float: right;
+	background-color: #26528E
+}
+hm {
+	float: left;
+	background-color: #006CFF;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #486098;
+} 
+maincontent {
+	
+}
+vid {
+
+	padding-left: 100px;
+	padding-top: 500px;
+}
+td {
+	padding-right: 50px;
+}
+
+button {
+	margin-top: 20px;
+	margin-left: 30px;
+}
